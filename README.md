@@ -1,4 +1,4 @@
-# AFAME-TECHNOLOGIES PROJECT SALES DATA ANALYSIS
+# SALES DATA ANALYSIS
 
 🚀 Exciting Project Update: Sales Data Analysis! 📊
 
